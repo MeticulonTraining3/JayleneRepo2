@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FolderEntryTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>dc28f2a5-417c-44d5-bd63-1b003e9ec932</Id>
+  <FolderEntry>
+    <EntryType>File</EntryType>
+    <DisplayName>TC38.docx</DisplayName>
+    <PathInsideRepo>TC38</PathInsideRepo>
+    <RepoRootFolder>C:\Users\Admin\Documents\Snirt\JayleneRepo2</RepoRootFolder>
+    <Deleted>false</Deleted>
+    <Contents />
+    <FolderEntryView>Thumbnail</FolderEntryView>
+  </FolderEntry>
+  <Tags>
+    <guid>ee2411e1-0028-432a-97f9-cbf97c445d82</guid>
+  </Tags>
+</FolderEntryTags>
